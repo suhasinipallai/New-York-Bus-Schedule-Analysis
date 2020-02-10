@@ -16,5 +16,7 @@ MTA 1706 data from GTFS scheduled - https://datamine.mta.info/
 
 Known Issues & Challenges: The main challenge will be to handle the missing data, manipulating data, correlate the features, visualize them and finding the delay time for a bus number NYCT-4855.
 
-S/w used - Python 3.0 Tools used - Pandas, Numpy Visualization Tools - Seaborn, Matplotlib
+S/w used - Python 3.0 
+Libraries used - Pandas, Numpy 
+Visualization Tools - Seaborn, Matplotlib
 
